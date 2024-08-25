@@ -1,0 +1,6 @@
+[submodule "prueba/themes/themes/hugo-book"]
+	path = prueba/themes/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "prueba/themes/hugo-book"]
+	path = prueba/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
